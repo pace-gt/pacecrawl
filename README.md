@@ -125,3 +125,10 @@ This puts the resulting difference between the two directories into diff.txt.
 ## License
 This project is licensed under the GNU General Public License v3.0. See
 [LICENSE](LICENSE) for the full text.
+
+## Contributors:
+Aiden Lambert (Developer)
+Deepa Phanish (Advisor)
+ 
+## Acknowledgement
+PACE, Georgia Institute of Technology
